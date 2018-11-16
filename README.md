@@ -15,7 +15,9 @@ raspberrypi.local
 sudo /sbin/ip link set can0 up type can bitrate 500000
 
 chmod u+x cansend
+
 chmod u+x candump
+
 ./candump can0
 
 
