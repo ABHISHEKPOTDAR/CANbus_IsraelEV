@@ -22,4 +22,4 @@ chmod u+x candump
 
 
 Download and copy the CAN test programs to the Pi: http://www.skpang.co.uk/dl/can-test_pi2.zip
-Pi CAN 2 summary: https://copperhilltech.com/pican-2-can-interface-for-raspberry-pi-2-3/
+Pi CAN 2 website: https://copperhilltech.com/pican-2-can-interface-for-raspberry-pi-2-3/
