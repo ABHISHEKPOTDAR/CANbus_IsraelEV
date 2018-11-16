@@ -12,7 +12,7 @@ Bud rate: 115200
 raspberrypi.local
 
 
-sudo /sbin/ip link set can0 up type can bitrate 500000
+sudo /sbin/ip link set can0 up type can bitrate 125000
 
 chmod u+x cansend
 
