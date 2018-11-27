@@ -1,4 +1,4 @@
-# CANbus_Israel and abshick EV
+# CANbus_Israel and abshick E-bike
 
 
 #GITHUB: https://github.com/autowp/arduino-mcp2515  
